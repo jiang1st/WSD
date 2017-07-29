@@ -1,2 +1,2 @@
-# Optimizing Region Selection forWeakly Supervised Detection
+# Optimizing Region Selection for Weakly Supervised Detection
 
