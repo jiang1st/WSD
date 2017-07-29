@@ -1,2 +1,2 @@
-# WSD
-Optimizing Region Selection forWeakly Supervised Detection
+# Optimizing Region Selection forWeakly Supervised Detection
+
